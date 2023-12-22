@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sammorgann
+- 👀 I’m interested in AI, space, mobile apps
+- 🌱 I’m currently learning mobile app developement
+- 💞️ I’m looking to collaborate on App development
